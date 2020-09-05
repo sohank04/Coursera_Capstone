@@ -1,11 +1,11 @@
-list4 = [5,3,4,6,1]
+list4 = [9,5,3,4,6,1]
 print (sorted(list4))
 print(2**0.5)
 print (4**2)
 print(4*2)
 print('hello world')
 print('hello My name is {r}'.format(r='jose'))
-name='jose'
+name='sohan'
 print (f'hello his name is {name}')
 print('division value is {r:1.2f}'.format(r=130/200))
 mylist=[1,2,[2,4]]
